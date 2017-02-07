@@ -40,5 +40,5 @@ http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-
 https://www.codeschool.com/courses/discover-devtools
 
 ## Additional resources
-http://semver.org/
+http://semver.org/  
 http://caniuse.com/
