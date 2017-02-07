@@ -1,1 +1,21 @@
+.heading-style,
+li,
+ol {
+  color: #333;
+  background: #ccc;
+  font-family: "Arial";
+}
 
+li a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:before {
+  display: none;
+  content: "Its a link"
+}
+
+a:hover:before {
+  display: block;
+}
