@@ -53,6 +53,7 @@ https://en.bem.info/
 https://css-tricks.com/examples/ShapesOfCSS/  
 http://flexboxfroggy.com/  
 http://www.flexboxdefense.com/  
+https://css-tricks.com  
 
 ## Additional resources
 http://semver.org/  

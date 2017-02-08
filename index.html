@@ -4,68 +4,48 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hello</title>
+    <title>Site</title>
     <link href="style.css" rel="stylesheet">
-    <style>
-    h1 {
-      color: #369;
-    }
-    </style>
   </head>
   <body>
-    <h2 class="heading-style">Hello, world!</h2>
-    <h1 style="color: #fff; background: #369">Hello, world!</h1>
-    <h1><a href="index.html">Hello</a>, world!</h1>
-    <p>This is <strong>paragraph</strong> <em>text</em></p>
-
-    <ul>
-      <li><a target="_blank" href="http://google.com">One</a></li>
-      <li>Two</li>
-      <li>Three</li>
-    </ul>
-
-    <hr/>
-
-    <ol>
-      <li>One</li>
-      <li>Two</li>
-      <li>Three</li>
-    </ol>
-
-    <table border="1">
-      <tr>
-        <th colspan="3">numbers</th>
-      </tr>
-      <tr>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>5</td>
-        <td>6</td>
-      </tr>
-      <tr>
-        <td>7</td>
-        <td>8</td>
-        <td>9</td>
-      </tr>
-    </table>
-
-    <form action="index.html" method="post">
-      <label for="text">Some text</label>
-      <input type="text" name="text" id="text" />
-      <textarea>I have a content</textarea>
-      <button type="submit">Send</button>
-    </form>
-
-    <br />
-    <br />
-    <br />
-    <img src="image.jpg" alt="Image of Keyboard" width="100%" />
-
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <div class="container">
+      <div class="header">
+        <h1 class="site-title">site title</h1>
+      </div>
+      <nav class="main-menu">
+        <a href="#">One</a>
+        <a href="#">Two</a>
+        <a href="#">Three</a>
+        <a href="#">Four</a>
+        <a href="#">Five</a>
+      </nav>
+      <div class="subcontainer">
+        <div class="sidebar">
+          <ul class="sub-menu">
+            <li><a href="#">One</a></li>
+            <li><a href="#">Two</a></li>
+            <li><a href="#">Three</a></li>
+            <li><a href="#">Four</a></li>
+            <li><a href="#">Five</a></li>
+          </ul>
+        </div>
+        <div class="content">
+          <h2 class="article-title">Lorem ipsum dolor sit amet</h2>
+          <div class="image-container">
+            <img src="image.jpg" class="image" alt="Article image" />
+            <span class="image-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
+          </div>
+          <div class="article-body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+      &copy; 2017 jan kos acc
+    </div>
     <script src="script.js"></script>
   </body>
 </html>

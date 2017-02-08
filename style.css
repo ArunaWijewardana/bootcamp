@@ -1,21 +1,136 @@
-.heading-style,
-li,
-ol {
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
   color: #333;
-  background: #ccc;
-  font-family: "Arial";
+  background: #eee;
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
 }
 
-li a {
+.container {
+  margin: 0 auto;
+  width: 90%;
+}
+
+.header {
+  background: #333;
+  color: #eee;
+  padding: 1em;
+}
+
+.site-title {
+  margin: 0;
+  padding: 0;
+}
+
+
+.main-menu {
+  display: table;
+  width: 100%;
+  float: right;
+}
+
+.main-menu a {
+  display: table-cell;
+  padding: 10px;
+  text-align: center;
   text-decoration: none;
-  display: inline-block;
+  color: #fff;
+  background: #369;
 }
 
-a:before {
-  display: none;
-  content: "Its a link"
+.main-menu a:hover {
+  color: #369;
+  background: #fff;
 }
 
-a:hover:before {
-  display: block;
+.subcontainer {
+  clear: both;
+}
+
+.sidebar {
+  float: right;
+  width: 20%;
+  padding: 10px;
+  border-left: 1px dotted #333;
+}
+
+.sub-menu {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.sub-menu li {
+  line-height: 150%;
+}
+
+.content {
+  width: 80%;
+  padding: 10px;
+}
+
+.article-title {
+  font-size: 1.5em;
+  margin: 0;
+  padding: .5em 0;
+}
+
+.image-container {
+  width: 50%;
+  float: right;
+  margin: 0 0 5px 10px;
+  position: relative;
+}
+
+.image {
+  width: 100%;
+}
+
+.image-description {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+  background: #fff;
+  opacity: .75;
+}
+
+.article-body {
+  font-size: .8rem;
+  line-height: 150%;
+  text-align: justify;
+}
+
+.footer {
+  background: #333;
+  color: #eee;
+  padding: 1em;
+  font-size: .75em;
+}
+
+@media (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+  }
+
+  .content {
+    width: 100%;
+  }
+
+  .image-container {
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    width: 100%;
+  }
 }
