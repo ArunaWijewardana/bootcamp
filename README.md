@@ -54,6 +54,39 @@ https://css-tricks.com/examples/ShapesOfCSS/
 http://flexboxfroggy.com/  
 http://www.flexboxdefense.com/  
 https://css-tricks.com  
+http://lesscss.org/  
+http://sass-lang.com/  
+
+## JavaScript
+http://eloquentjavascript.net/ (Book)  
+JavaScript: The Good Parts (Book, Google it :))  
+https://www.codecademy.com/learn/javascript  
+https://www.codecademy.com/learn/learn-javascript  
+https://www.codecademy.com/learn/jquery  
+https://babeljs.io/  
+https://webpack.github.io/  
+https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q (Youtube channel)  
+https://egghead.io/courses/learn-es6-ecmascript-2015  
+
+## React & Redux
+https://scotch.io/tutorials/learning-react-getting-started-and-concepts  
+https://facebook.github.io/react/  
+https://www.codecademy.com/learn/react-101  
+https://www.codecademy.com/learn/react-102  
+http://redux.js.org/  
+https://egghead.io/courses/react-fundamentals  
+https://egghead.io/courses/getting-started-with-redux  
+https://github.com/ReactTraining/react-router  
+
+## NodeJS
+http://expressjs.com/  
+http://knexjs.org/  
+http://bookshelfjs.org/  
+https://www.terlici.com/2014/08/25/best-practices-express-structure.html  
+
+##REST APIs
+https://www.codecademy.com/apis  
+
 
 ## Additional resources
 http://semver.org/  
