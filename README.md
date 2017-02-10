@@ -83,6 +83,8 @@ http://expressjs.com/
 http://knexjs.org/  
 http://bookshelfjs.org/  
 https://www.terlici.com/2014/08/25/best-practices-express-structure.html  
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4  
+https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-46b0901f29b6#.qfuofe1mr  
 
 ##REST APIs
 https://www.codecademy.com/apis  
