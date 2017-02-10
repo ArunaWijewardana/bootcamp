@@ -67,6 +67,7 @@ https://babeljs.io/
 https://webpack.github.io/  
 https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q (Youtube channel)  
 https://egghead.io/courses/learn-es6-ecmascript-2015  
+https://javascript30.com/  
 
 ## React & Redux
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts  
@@ -91,5 +92,6 @@ https://www.codecademy.com/apis
 
 
 ## Additional resources
+https://coggle.it/diagram/Vz9LvW8byvN0I38x
 http://semver.org/  
 http://caniuse.com/
