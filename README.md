@@ -28,18 +28,11 @@ Pigments
 Linter-eslint  
 React  
 
+## General
+https://frontendmasters.com/books/front-end-handbook/2017/
+
+## Terminal/CMD
 https://www.codecademy.com/learn/learn-the-command-line
-
-## Git
-http://nvie.com/posts/a-successful-git-branching-model/  
-https://www.codecademy.com/learn/learn-git  
-https://www.codeschool.com/courses/try-git (Alternative)  
-
-## UX
-http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-design
-
-## DevTools
-https://www.codeschool.com/courses/discover-devtools
 
 ## HTML & CSS
 https://www.codecademy.com/learn/web  
@@ -56,6 +49,17 @@ http://www.flexboxdefense.com/
 https://css-tricks.com  
 http://lesscss.org/  
 http://sass-lang.com/  
+
+## Git
+http://nvie.com/posts/a-successful-git-branching-model/  
+https://www.codecademy.com/learn/learn-git  
+https://www.codeschool.com/courses/try-git (Alternative)  
+
+## UX
+http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-design
+
+## DevTools
+https://www.codeschool.com/courses/discover-devtools
 
 ## JavaScript
 http://eloquentjavascript.net/ (Book)  
