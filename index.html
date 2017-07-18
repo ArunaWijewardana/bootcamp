@@ -8,16 +8,24 @@
     <script src="script.js"></script>
   </head>
   <body>
-    <h1>picogram</h1>
-    <form action="home.html" method="get">
-      <label for="user">username</label>
-      <input type="text" name="user"  id="user" class="user" autofocus="autofocus" />
-      <label for="pass">password</label>
-      <input type="password" name="pass" id="pass" class="pass" />
-      <button type="submit">Log in</button>
-    </form>
-    <a href="signup.html">sign up!</a>
-    <a href="forgotpass.html">forgot password?</a>
-    <a href="help.html">need some help?</a>
+    <div class="container">
+      <div class="header">
+        <h1>picogram</h1>
+      </div>
+      <div class="main">
+        <form action="home.html" method="get" class="loginform">
+          <label for="user">username</label>
+          <input type="text" name="user"  id="user" class="user" autofocus="autofocus" />
+          <label for="pass">password</label>
+          <input type="password" name="pass" id="pass" class="pass" />
+          <button type="submit">Log in</button>
+        </form>
+      </div>
+      <div class="footer">
+        <a href="signup.html">sign up!</a>
+        <a href="forgotpass.html">forgot password?</a>
+        <a href="help.html">need some help?</a>
+      </div>
+    </div>
   </body>
 </html>
