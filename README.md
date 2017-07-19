@@ -29,7 +29,7 @@ Linter-eslint
 React  
 
 ## General
-https://frontendmasters.com/books/front-end-handbook/2017/
+https://frontendmasters.com/books/front-end-handbook/2017/  
 https://codepen.io/2016/popular/pens/10/
 
 ## Terminal/CMD
@@ -64,6 +64,7 @@ https://www.codeschool.com/courses/discover-devtools
 
 ## JavaScript
 http://eloquentjavascript.net/ (Book)  
+https://github.com/getify/You-Dont-Know-JS  
 JavaScript: The Good Parts (Book, Google it :))  
 https://www.codecademy.com/learn/javascript  
 https://www.codecademy.com/learn/learn-javascript  
@@ -92,7 +93,7 @@ https://www.terlici.com/2014/08/25/best-practices-express-structure.html
 https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4  
 https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-46b0901f29b6#.qfuofe1mr  
 
-##REST APIs
+## REST APIs
 https://www.codecademy.com/apis  
 
 
