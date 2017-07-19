@@ -38,10 +38,20 @@ if (1 > 2) {
 
 let somestring = "Lorem ipsum";
 let somenumber = 123;
+let = false;
 let obj = {string: somestring, number: somenumber, sublevel: {
   myval: divide
 }};
+let arr = [1, 'two', obj];
+arr[2] = 'three';
+arr.push('aa');
+arr.pop();
+
+for (let k = 0; k < arr.length; k++) {
+  console.log(arr[k]);
+}
 
 console.log(obj);
 console.log(obj.sublevel.myval);
 console.log(obj.sublevel.myval(2, 2));
+console.log(arr);
